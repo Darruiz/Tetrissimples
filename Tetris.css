@@ -1,0 +1,67 @@
+html {
+	background-color: black;
+}
+
+.ww {
+	color: white;
+}
+
+#outer{
+	height: 550px;
+	width: 600px;
+	border: 2px rgb(21, 255, 0) solid;
+	margin: auto;
+	border-radius: 15px;
+}
+#playconsole{
+	height: 475px;
+	width: 408px;
+	border: 2px rgb(98, 0, 255) solid;
+	float: right;
+	position: relative;
+	right: 20px;
+	top:50px;
+}
+#next{
+	height: 150px;
+	width: 120px;
+	border: 2px rgb(132, 0, 255) solid;
+	float: left;
+	position: relative;
+	left: 20px;
+	top: 150px;
+}
+#score1{
+	height: 150px;
+	width: 120px;
+	border: 2px rgb(0, 60, 255) solid;
+	float: left;
+	position: relative;
+	left: 20px;
+	top: 149px;
+	font-size: 22px;
+}
+.blkElement{
+	height: 32px;
+	width: 32px;
+	border: 1px rgb(4, 0, 255) solid;
+	float:left;
+	font-size: 8px;
+}
+div{
+	font-size: 15px;
+}
+button{
+	float: left;
+	clear:both;
+	position: relative;
+	top:30px;
+	left:10px;
+	width: 100px;
+	height: 30px;
+	font-size: 18px;
+}
+
+#score2{
+	font-size: 20px;
+}
