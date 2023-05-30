@@ -290,7 +290,7 @@ function chkEnd(){
 		newRun();
 	}else{
 		
-		document.getElementById('score1').innerHTML = "Cassia de D para o Darruiz agora  <br>" ; 
+		document.getElementById('score1').innerHTML = "Se FUDEU KAKAKKAAKKAK <br>" ; 
 		Tetris.Ctrl.firstRound = false;
 		Tetris.Ctrl.inGame = false;
 		document.getElementById('start').innerHTML = 'Restart';
