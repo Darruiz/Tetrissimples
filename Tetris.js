@@ -436,5 +436,5 @@ function pause()
 }
 function help()			
 {
-	alert("Use right arrow to move right, left arrow to move left,downwards arrow to move down,upwords arrow to rotate.");
+	alert("Mexe as setas ai burro não sabe jogar Tetris? Burro dms clicou help kakakaak.");
 }
